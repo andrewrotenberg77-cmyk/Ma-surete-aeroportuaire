@@ -1,0 +1,22 @@
+[
+  {
+    "q": "Quelle couleur indique une matière organique au scanner RX ?",
+    "o": ["Bleu", "Orange", "Vert"],
+    "r": "Orange"
+  },
+  {
+    "q": "Quelle est la limite de liquide par contenant en cabine ?",
+    "o": ["50ml", "100ml", "200ml"],
+    "r": "100ml"
+  },
+  {
+    "q": "Le règlement de base de la sûreté européenne est le :",
+    "o": ["300/2008", "2015/1998", "OACI 17"],
+    "r": "300/2008"
+  },
+  {
+    "q": "Un couteau avec une lame de 8cm est-il autorisé ?",
+    "o": ["Oui", "Non"],
+    "r": "Non"
+  }
+]
